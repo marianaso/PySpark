@@ -1,4 +1,4 @@
-# PySpark
+# PySpark @ Colab
 
 Scripts desenvolvidos no Colab utilizando PySpark:
 
